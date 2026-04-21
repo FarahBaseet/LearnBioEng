@@ -19,7 +19,7 @@ Each module includes digestible information to learn and various question types,
 As modules are completed, users earn points and hit milestones to be displayed on their dashboard, along with learning streaks.
 
 Users with admin permissions can also create, edit, and manage learning content. Admins can also upload documents or lesson outlines to create new modules in an AI-assisted procedure.
-![](https://github.com/csc301-2025-f/project-1-learnbioeng/blob/main/Untitled%20design%20(1).gif)
+![](https://github.com/FarahBaseet/LearnBioEng/blob/053ee5f035acaed72635afad4394cc2aa15c96f7/Gif(1).gif)
 ​
 ## Important
 After 1 day, the token of the website will expire. This will not give any message on the website with the current implementation. Simply reload the website and login again to get a new access token for 1 more day.
