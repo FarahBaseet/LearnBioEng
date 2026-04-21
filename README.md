@@ -10,7 +10,7 @@ Mosaic Bioethics is an interactive educational platform designed to make bioengi
 ## Key Features
 Users can register for an account and log in to access a personalized dashboard.
 
-![](https://github.com/csc301-2025-f/project-1-learnbioeng/blob/main/Untitled%20design.gif)
+![](https://github.com/FarahBaseet/LearnBioEng/blob/da74ba95795b56d30a25ad10a36e39845e8428ae/Untitled%20design.gif)
 
 They have access to a collection of bioethics modules, of which they can pick any to begin learning through engaging, gamified lessons.
 
