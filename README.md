@@ -21,8 +21,6 @@ As modules are completed, users earn points and hit milestones to be displayed o
 Users with admin permissions can also create, edit, and manage learning content. Admins can also upload documents or lesson outlines to create new modules in an AI-assisted procedure.
 ![](https://github.com/FarahBaseet/LearnBioEng/blob/053ee5f035acaed72635afad4394cc2aa15c96f7/Gif(1).gif)
 ​
-## Important
-After 1 day, the token of the website will expire. This will not give any message on the website with the current implementation. Simply reload the website and login again to get a new access token for 1 more day.
 ## Instructions
 Users must visit the website and register accounts to access the platform (and all its content) beyond the landing page. Account creation is not limited to specific institutions, in line with Mosaic Bioethics's commitment to supporting individual learners.
 
