@@ -1,16 +1,15 @@
 # LEARNBIOENG/The A Team
-​Due to licensing and partner agreements, the code base is private without request.​
+​Note: Due to licensing and partner agreements, the code base is private without request.​
 
-## Partner Intro
-Rafiq is a UofT engineering alumnus and the founder of Mosaic Bioethics. With past experience in founding an education-focused startup, Mosaic Bioethics reflects his mission to lower entry barriers to  high-quality, engaging bioethics education. The organization focuses on supporting learning in all environments through retention-focused teaching methods, such as gamified modules and interactive simulations. Our second point of contact at the organization is a hardware engineer, Kevin Gan.
-
-## Description about the project
+## Project Description
 Mosaic Bioethics is an interactive educational platform designed to make bioengineering education accessible to all. By providing digestible modules with engaging learning, it supports study regardless of access to physical labs.
 ​
+## Partner Information
+Rafiq is a UofT engineering alumnus and the founder of Mosaic Bioethics. With past experience in founding an education-focused startup, Mosaic Bioethics reflects his mission to lower entry barriers to high-quality, engaging bioethics education. The organization focuses on supporting learning in all environments through retention-focused teaching methods, such as gamified modules and interactive simulations. Our second point of contact at the organization is a hardware engineer, Kevin Gan.
+
 ## Key Features
 Users can register for an account and log in to access a personalized dashboard.
-
-![](https://github.com/FarahBaseet/LearnBioEng/blob/da74ba95795b56d30a25ad10a36e39845e8428ae/Untitled%20design.gif)
+<img src="https://github.com/FarahBaseet/LearnBioEng/blob/da74ba95795b56d30a25ad10a36e39845e8428ae/Untitled%20design.gif" width="50%" />
 
 They have access to a collection of bioethics modules, of which they can pick any to begin learning through engaging, gamified lessons.
 
@@ -21,7 +20,7 @@ As modules are completed, users earn points and hit milestones to be displayed o
 Users with admin permissions can also create, edit, and manage learning content. Admins can also upload documents or lesson outlines to create new modules in an AI-assisted procedure.
 ![](https://github.com/FarahBaseet/LearnBioEng/blob/053ee5f035acaed72635afad4394cc2aa15c96f7/Gif(1).gif)
 ​
-## Instructions
+## Usage Instructions
 Users must visit the website and register accounts to access the platform (and all its content) beyond the landing page. Account creation is not limited to specific institutions, in line with Mosaic Bioethics's commitment to supporting individual learners.
 
 To add new admins, admin users can navigate to the admin panel.
