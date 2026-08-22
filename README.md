@@ -9,7 +9,7 @@ Rafiq is a UofT engineering alumnus and the founder of Mosaic Bioethics. With pa
 
 ## Key Features
 Users can register for an account and log in to access a personalized dashboard.
-<img src="https://github.com/FarahBaseet/LearnBioEng/blob/da74ba95795b56d30a25ad10a36e39845e8428ae/Untitled%20design.gif" width="50%" />
+<img src="https://github.com/FarahBaseet/LearnBioEng/blob/da74ba95795b56d30a25ad10a36e39845e8428ae/Untitled%20design.gif" width="40%" />
 
 They have access to a collection of bioethics modules, of which they can pick any to begin learning through engaging, gamified lessons.
 
@@ -18,7 +18,8 @@ Each module includes digestible information to learn and various question types,
 As modules are completed, users earn points and hit milestones to be displayed on their dashboard, along with learning streaks.
 
 Users with admin permissions can also create, edit, and manage learning content. Admins can also upload documents or lesson outlines to create new modules in an AI-assisted procedure.
-![](https://github.com/FarahBaseet/LearnBioEng/blob/053ee5f035acaed72635afad4394cc2aa15c96f7/Gif(1).gif)
+<img src="https://github.com/FarahBaseet/LearnBioEng/blob/053ee5f035acaed72635afad4394cc2aa15c96f7/Gif(1).gif" width="40%" />
+
 ​
 ## Usage Instructions
 Users must visit the website and register accounts to access the platform (and all its content) beyond the landing page. Account creation is not limited to specific institutions, in line with Mosaic Bioethics's commitment to supporting individual learners.
